@@ -11,7 +11,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Im studying at Cappadocia Universty Computer Progrraming with full scholarship <br>
+Im studying at Cappadocia Universty Computer Programing with full scholarship <br>
 Im currently tryna improve myself on cyber security and CMS systems <br>
 If u need contact w/me <a href="mailto:info@orkunonuk"><b>try email</b></a>
 
