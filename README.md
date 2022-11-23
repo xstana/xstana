@@ -39,7 +39,7 @@ If u need contact w/me <a href="mailto:info@orkunonuk"><b>try email</b></a>
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](hhttps://tr.linkedin.com/in/orkun-onuk-325a17220/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​]https://www.instagram.com/xstana_official/)  ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/aupput11iaa67gc9uc7jnkym4?si=vwZL13FkTVmik7XtbY1GFg&utm_source=copy-link) -->
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](hhttps://tr.linkedin.com/in/orkun-onuk-325a17220/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​]https://www.instagram.com/xstana_official/)  ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/aupput11iaa67gc9uc7jnkym4?si=VsKhwkfyQhKeCe3SNs1fKg&utm_source=copy-link) -->
 
 <!--
 **xstana/xstana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
