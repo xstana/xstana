@@ -36,6 +36,10 @@ If u need contact w/me <a href="mailto:info@orkunonuk"><b>try email</b></a>
 <a href="https://tr.linkedin.com/in/orkun-onuk-325a17220" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/xstana_design" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/playlist/0SM2qhu9L2TDiiCkzm5bNv?si=kNoR7TTdSVu-kVjWmfk1wA&utm_source=copy-link&dlbranch=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://hangoutcappadocia.com" target="_blank" rel="ndofollow">
+    <img src="https://hangoutcappadocia.com/wp-content/uploads/2024/08/favicon.ico" alt="Hangout Cappadocia" style="width:32px;height:32px;border:none;"/>
+</a>
+
 
 </div>
 
