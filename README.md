@@ -37,7 +37,7 @@ If u need contact w/me <a href="mailto:info@onuk.tr"><b>try email</b></a>
 <a href="https://www.instagram.com/xstana_design" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/playlist/0SM2qhu9L2TDiiCkzm5bNv?si=kNoR7TTdSVu-kVjWmfk1wA&utm_source=copy-link&dlbranch=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://onuk.tr" rel="dofollow" title="onuk.tr">
-
+<a href="https://onuk.tr" rel="dofollow" title="Web Tasarım Hizmetleri">
 
 </div>
 
